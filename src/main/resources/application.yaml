@@ -35,6 +35,6 @@ logging:
   level:
     orderservice.MSAOrderService: DEBUG
 
-# Controller?? ?? ???
+# Controller?? ?? ???, 글씨가 깨지네
 greeting:
   message: Welcome to the Simple E-commerce-Service.
